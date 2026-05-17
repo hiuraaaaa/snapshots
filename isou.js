@@ -1,3 +1,12 @@
+/**
+ * ─────────────────────────────────────────────
+ *  @project    Isou Chat
+ *  @desc       Real-time AI search with multiple engine support
+ *  @author     Hiura
+ *  @repo       github.com/hiuraaaaa/snapshots
+ * ─────────────────────────────────────────────
+ */
+
 const axios = require('axios');
 
 async function isou(question, { engine = 'SEARXNG', deep_research = false } = {}) {
