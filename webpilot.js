@@ -1,3 +1,12 @@
+/**
+ * ─────────────────────────────────────────────
+ *  @project    webilot
+ *  @desc       Ask questions and get real-time AI answers with web sources using WebPilot.
+ *  @author     Hiura
+ *  @repo       github.com/hiuraaaaa/snapshots
+ * ─────────────────────────────────────────────
+ */
+
 const axios = require('axios');
 
 async function webpilot(query) {
