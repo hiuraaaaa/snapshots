@@ -5,8 +5,8 @@ cat > ollama-master-v2.js << 'EOF'
  *  @desc       Multi-instance Ollama pool with auto fallback
  *              & model routing — sourced via Shodan hunting
  *  @models     70B+ models, uncensored, coders, vision, etc
- *  @author     Hhh
- *  @repo       github.com/Hhh/snapshots
+ *  @author     Hiura
+ *  @repo       github.com/hiuraaaaa/snapshots
  * ─────────────────────────────────────────────
  */
 
